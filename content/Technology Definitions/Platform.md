@@ -1,0 +1,8 @@
+#EA #TOGAF #Technology 
+
+# Platform
+
+- From TOGAF definition of the [[TRM]]
+- The term "platform" is used in many different ways within the IT industry today. Because of the different usages, one often see the term qualified: for example, "Application Platform", "Standardized" and "Proprietary Platforms", "Client" and "Server Platforms", "Distributed Computing Platform", "Portability Platform". Common to all these usages is the idea that someone needs a set of services provided by a particular kind of "platform", and will implement a "higher level" function that makes use of those services.
+- It is important to recognize that the Application Platform in the TOGAF Technical Reference Model is a single, generic, conceptual entity. From the viewpoint of the TOGAF TRM, the Application Platform contains all possible services. In a specific target architecture, the Application Platform will contain only those services needed to support the required functions.
+- Service bundles are represented in an IT Architecture in the form of "Building Blocks". One of the key tasks of the IT architect in going from the conceptual Application Platform of the TRM to an organization-specific IT architecture, is to look beyond the set of real-world "platforms" already in existence in the enterprise. The IT architect must analyse the services actually needed in order to implement an IT infrastructure that meets the enterprise's business requirements in the optimal manner, and define the set of optimal solution building blocks - real-world "platforms" - to implement that architecture.
