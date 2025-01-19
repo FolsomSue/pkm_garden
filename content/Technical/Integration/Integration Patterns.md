@@ -1,0 +1,28 @@
+ #EA #Integration #Patterns 
+
+- circuit breaker, -> really a design pattern
+- pub/sub, 
+- scatter/gather, 
+- events and error handling
+- point to point channel
+	- Competing Consumers
+- Event-Driven Integrations
+	- Based on [[Event Broker]] + iPaaS
+- Webhook + API
+- OIC patterns: [[OIC Patterns]]
+- Conventional patterns: [[Integration Patterns]]
+- "Patterns" used by CIS/WAM-E: [[CIS WAM-E Integration Patterns]]
+- Enterprise Integration Textbook
+	- Standard Enterprise Integration Styles
+		- File Transfer
+		- Shared Database
+		- Remote Procedure Invocation
+		- Messaging
+	- Standard Enterprise Integration Types
+		- Information Portal
+		- Data Replication
+		- Shared Business Function
+		- Service Oriented Architecture
+		- Distributed Business Process
+		- B2B Integration
+		- Tightly vs. Loosely -Coupled Interaction
