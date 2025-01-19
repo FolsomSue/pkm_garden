@@ -1,0 +1,21 @@
+---
+aliases: (iPaaS)
+---
+
+#iPaaS
+#Technology 
+It’s no secret that [cloud integration](https://www.mulesoft.com/resources/cloudhub/integration-clouds-big-challenge) is one of the main challenges facing today’s enterprises. In order to meet the growing need for secure and reliable cloud integration solutions, several vendors have started to offer integration services known as [Integration Platform as a Service](https://www.mulesoft.com/platform/saas/cloudhub-ipaas-cloud-based-integration) (iPaaS). For more information about the category, take a look at Gartner's report on [enterprise integration](https://www.mulesoft.com/lp/reports/gartner-magic-quadrant-ipaas "Enteprise Integration"). 
+
+![What is an Integration Platform as a Service (iPaaS)](https://www.mulesoft.com/sites/default/files/integration%20platform%20as%20a%20service%20ipaas.jpg "Integration Platform as a Service (iPaaS)")
+
+iPaaS is a cloud-based integration solution that is steadily gaining buzz, but—as with other cloud offerings—it is important to look beyond the hype for actual substance. One sure sign that iPaaS is securing its place as a legitimate category in the cloud computing stack is Gartner’s slew of [research publications](http://www.gartner.com/it-glossary/information-platform-as-a-service-ipaas/) in the past several months on iPaaS, including  “[Gartner Reference Model of Integration PaaS](https://www.gartner.com/doc/1729256/gartner-reference-model-integration-paas).” This growing attention is a good sign for iPaaS vendors, but a few people may still be unclear about what iPaaS actually is or does.
+
+In simplest terms, iPaaS is a platform for building and deploying integrations within the cloud and between the cloud and enterprise. With iPaaS, users can develop integration flows that connect applications residing in the cloud or on-premises and then deploy them without installing or managing any hardware or middleware.
+
+Providing further definition and specificity to the iPaaS category, Gartner outlines a number of key functions in its reference model. These include tools and technologies that support the execution of integration flows, the development and lifecycle management of integrations, the management and monitoring of application flows, governance, and essential cloud features such as multitenancy, elasticity and self-provisioning. Gartner also sees iPaaS as a potential platform for the buying, selling, and exchange of integration flows (both out-of-the-box and custom-built patterns) between users, service providers, and [integration providers](https://www.mulesoft.com/resources/cloudhub/integration-providers-respond-to-the-clouds-challenge).
+
+Because the iPaaS model is still in its early stages, Gartner points out that iPaaS offerings that are currently on the market may not include all of the features in its reference model. Instead, Gartner identifies three categories of iPaaS vendors, each of which emphasizes a different area of integration: e-commerce and B2B integration, cloud integration, and [Enterprise Service Bus](https://www.mulesoft.com/platform/soa/mule-esb-open-source-esb) (ESB) and [Service Oriented Architecture](http://www.mulesoft.org/bottom-up-soa) (SOA) infrastructure.
+
+Depending on the particular integration needs of an enterprise, some vendor options may be a better fit than others. For short-term integration needs, iPaaS offerings that focus on e-commerce/B2B integration and cloud integration provide simple solutions that quickly connect partner applications and cloud services.
+
+Given the growing shift toward hybrid architectures, however, it would be a smart move to begin thinking about long-term integration strategies to support computing models that include both on-premises resources and cloud services. Of the three vendor categories, iPaaS offerings from vendors with a background in ESB and SOA provide the most balanced and robust set of capabilities for long-term integration and governance projects. Although Gartner points out that some of these offerings are currently in beta or development, it is clear that iPaaS vendors with expertise in ESB and SOA are in the best position to tackle systematic integration for the cloud era.
