@@ -1,0 +1,67 @@
+---
+tags:
+  - EA
+  - ArchiMate
+---
+# Specified View
+- Business Unity Taxonomy
+- Issue: shared components between related business units, some *not shared* even within the business unit
+	- E.g.
+		- Gas Distribution vs. Transmission vs. Both
+		- Electric Distribution vs. Transmission vs. Both
+		- Common to Gas and Electric
+		- N60
+- Current vs. Future State
+	- Supposedly modelling via Plateaus, with Gaps separating them
+		- With Gaps fulfilled by projects
+	- Need to figure out how this concept will work at the specified level
+	- Plateaus are meant to identify gaps, deliverables (business plans, roadmaps, eg.), projects, programs, work packages...
+		- Not necessarily for underlying capabilities, services, components
+- Integrations
+	- Need to model Data Objects, information flows
+	- Need to model Integration approaches
+		- I'm abstracting these as Integration Services (WIP)
+- Capabilities
+	- The Business Capabilities for Gas / Electric are very incomplete and out of date
+	- Shoot for L3 from the BCM (L1, L2 not too useful)
+	- How to do 
+- Perspectives / Themes
+	- E.g. CX
+	- -> Use a relationship to a Value Stream!!!
+	- Components *realize* a value stream
+	- Other business elements *serve* a value stream
+- NFRs
+	- Do we model these as attributes? Or relations -- and to what?
+- Model as relations:
+	- App owners?
+	- App users?
+	- App / Org managed?
+	- GCA view is needed, driven by app owners (who pay for it)
+-  Landscape
+	- Revamping approach re BU hierarchy
+		- Removing attributes, replacing with relationships
+	- Revamping approach to "Types, Themes"
+		- Replacing attributes with relations to value streams
+	- Modifying integrations to reflect "real" relationships, directions
+	- Figuring out Plateaus to permit legacy / current / transitional / to-be states
+		- And how to incorporate as-builts (when we get those)
+# APM+ Relation Restrictions
+- App to App Components
+	- **Flow** relations
+- App to Functions
+	- **Assignment** relations
+- App to Bus Actor
+	- **Serving** relations
+- App to Bus Capabilities
+	- **Realization** relations
+- App to Plateau
+	- **Aggregation** relations
+- App to Work Packages
+	- **Realization** relations
+- Work Packages to Work Packages
+	- **Flow** relations
+- Tech to App Components
+	- **Serving** relations
+- Location
+	- **Composition** relations
+- 
