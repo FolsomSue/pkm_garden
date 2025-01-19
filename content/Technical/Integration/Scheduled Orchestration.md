@@ -1,0 +1,5 @@
+#Technology #definition #Integration #Oracle #Patterns 
+# Scheduled Orchestration
+Create an integration that uses a schedule to trigger the integration instead of an adapter. For example, you add an initial invoke adapter to read a trigger file and a second FTP adapter to download the file for further processing. After designing this integration, you schedule when to run it.
+
+See [Create Scheduled Integrations](https://docs.oracle.com/en/cloud/paas/integration-cloud/integrations-user/create-scheduled-integrations.html "You can schedule the running of integrations. For example, you can create an orchestrated integration that is triggered by a schedule or create a basic routing integration in which a trigger FTP Adapter reads a file and an invoke FTP Adapter writes the file. You can schedule this integration run to copy files at a date and time of your choosing. You can also define the frequency of the integration. When you create either of these types of integrations, a schedule icon is displayed with the integration entry on the Integrations page.").
