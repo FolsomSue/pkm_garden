@@ -1,0 +1,2 @@
+- Name: Yubikey 5Ci (Replacement)
+- Generated Key (Challenge/Response): 480a16d44d7762793a962fd03483434de52d555b
