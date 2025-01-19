@@ -1,0 +1,36 @@
+- ArchiMate Training Package
+	- Need to align with APM+
+		- Additions to APM+ are possible and useful, but won't be leveraged by the APM+ dashboards / scripts out of the box 
+		- No simple associations when possible
+		- Flow relations between application components, with Data Objects assigned to the flow relation
+			- No bidirectional flows in ArchiMate, so separate flows will be needed in some cases (but can share Data Objects)
+		- App Components will Serve Business Actors, which we assume are having the role of Business Unit
+			- Different roles can be defined but aren't used by APM+
+	- Sections
+		- History
+		- Overview of Aspects and Layers
+		- Overview of Relationships
+		- Suggested Relationships
+		- Composition vs. Aggregation vs. Nesting
+		- Stereotypes (BizzDesign-focused)
+		- Overview of APM+ -related elements
+	- Audience
+		- EAs, SAs, BAs
+		- Management -- different slides
+	- Advice
+		- If it's structural, it's best represented via elements and relationships
+			- E.g. Business Units and what they are using
+		- If it's informative, it's likely best captured in attributes within BizzDesign
+			- E.g. Business Units owning / funding percentage of components, services
+			- Non-atomic information can be parsed from a list-like capability of APM+
+		- Composition vs. Aggregation
+			- Use Composition for elements of the same time, where the "parent" is made up of its children, which are a part of the composition
+				- "Part of" relationship
+			- Use Aggregation for elements that may be have several aggregation "parents"
+				- "Has a" relationship
+		-  Landscapes
+			- Use App Components, with flows + associated data objects to represent integrations
+			- Define BU alignment by App Components Serving BU Business Actors
+	- Caveats
+		- Custom attributes / properties cannot be imported from Archi
+			- The attributes are exported from Archi, but ignored by BizzDesign
