@@ -1,0 +1,3 @@
+Mission Statement
+“eHealth Ontario is providing a single, harmonized, holistic, province-wide ehealth strategy in a cohesive manner. This strategy therefore must align with the reference architecture and canonical model, in synergy
+with a longitudinal view of health care while maintaining a single point of accountability. Doing so will foster effective innovation in a non-prescriptive, collaborative, transformational manner throughout the health care ecosystem.“
