@@ -1,0 +1,27 @@
+---
+tags:
+  - ITOT
+  - Principles
+  - Integration
+  - ITOT_Convergence
+---
+Design as if always crossing a network boundary
+	- Covers on-prem vs. cloud
+	- Covers Corporate vs. OT 
+		- trust zones high to low
+- Leverage a trusted data layer
+	- Feeding an IT-hosted PI
+	- Providing a repository of suitable context for time-series information
+	- Putting the two together via an analytical framework
+- Understand Motivational Differences
+- Design for scalability
+- Assume OT assets do not have internet connectivity
+- Push vs Pull
+	- IT cannot pull from OT
+	- IT can pull from OT MB
+	- OT can pull from IT (but maybe shouldn't)
+	- OT can pull from OT MB
+	- IT cannot push to OT
+	- IT can push to OT MB
+	- OT can push to IT
+	- OT can push to OT MB
