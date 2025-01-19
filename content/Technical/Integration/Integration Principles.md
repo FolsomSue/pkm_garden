@@ -1,0 +1,22 @@
+ #Technology #Integration #Principles 
+Design as if always crossing a network boundary
+	- Covers on-prem vs. cloud
+	- Covers Corporate vs. OT 
+		- trust zones high to low
+- << Conventional Principles: >>
+	- Buy vs. Build
+	- Leverage Data Mapping, transformations, etc. from the iPaaS capabilities
+- Session
+	- Stateful vs. Stateless
+	- Do not rely on source / target system implementations to leverage session states; instead explicitly exchange / reference pertinent session states
+- Leverage iPaaS to Implement all patterns
+	- THere may be exceptions for Legacy systems / integrations
+- Authentication
+	- Centralized IdAM? -> we leverage Okta for all platform / cross-platform authentication
+	- OAuth 2.0, SAML-based API-key authentication
+	- Separation of System authentication from User authorization (access)
+- Security baked-in
+	- Secure protocols
+- Leverage Open Standards
+- Loosely-coupled
+- Leverage iPaaS wherever possible
