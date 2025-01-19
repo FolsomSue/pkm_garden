@@ -1,0 +1,16 @@
+#Technology #definition 
+## What’s the Difference Between EDI and API?
+
+Both EDI and API methods can be used to transmit data from one business partner to another. But each has its strengths and weaknesses.
+
+EDI emerged decades ago as a way to streamline business processes, transferring data from system to system with the use of established messaging standards. EDI helps reduce manual processing of bulk data by allowing the [transfer of business documents](https://www.edibasics.com/what-is-edi/paper-based-vs-electronic-transactions/) such as purchase orders, invoices, ASNs and more, between business partners. EDI data is stored then transmitted, and therefore has limited use for real-time access and responsiveness.
+
+APIs were first developed in the early 2000’s and are often used in Cloud SaaS (Software as a Service) applications. Unlike EDI, APIs enable real time data exchange. Web service APIs provide easy integration to back-end business systems. Compliance and security are other aspects of APIs that differ from EDI. API integration may not be a suitable solution to adhere to compliance regulations, such as [sensitive financial data](https://www.edibasics.com/edi-by-industry/the-financial-services-industry/).
+
+<table><tbody><tr><td>&nbsp;</td><td><strong>EDI</strong></td><td><strong>API</strong></td></tr><tr><td><strong>Call pattern</strong></td><td>Asynchronous call for batch exchange</td><td>Synchronous call for real-time exchange</td></tr><tr><td><strong>Data size</strong></td><td>Capable of handling mass data</td><td>Not intended for mass data</td></tr><tr><td><strong>Standards</strong></td><td>Standards are set with industry and region-specific options</td><td>No widespread and established standards</td></tr><tr><td><strong>Security</strong></td><td>Trusted solution to fulfill compliance regulations</td><td>May not be suitable to adhere to compliance regulations</td></tr><tr><td><strong>Ease of on-boarding</strong></td><td>New partners, especially those who are pre-connected to provider’s network, can be on-boarded easily and quickly</td><td>The data layer for API implementation needs to be built</td></tr><tr><td><strong>Cost</strong></td><td>Usually charged by kilo-character (KC)</td><td>Usually charged by document</td></tr><tr><td><strong>Common use cases</strong></td><td>Batch data conversion of bundled information via system-to-system<br>Connect to external trading partners via VAN</td><td>Real-time single request for information<br>Connect to API-enabled cloud applications</td></tr></tbody></table>
+
+## Choosing Between EDI and API
+
+When discussing API vs EDI, advantages and disadvantages are unique to each system. For one, API implementation may be less costly than EDI by not requiring on-going maintenance or translation services. However, those benefits may be offset by the increased complexity of adding new trading partners and collaborating on communication standards.
+
+When considering API vs EDI, the answer may not be an either/or situation. [While EDI is likely to continue to handle the majority of B2B interactions](https://www.edibasics.com/types-of-edi/edi-via-van/future-of-edi-van/), businesses are increasingly using a mix of API and EDI integrations.
