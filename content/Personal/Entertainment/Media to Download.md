@@ -1,0 +1,51 @@
+# Media to Download
+#entertainment #television #movies
+## Movies
+- [x] Tenet
+- [x] The New Mutants
+## TV Shows
+- [ ] On The Rocks
+- [x] The Long Call
+- [x] Dalgleish
+- [x] Wandavision
+- [x] Fauda
+- [ ] Canadian Strain
+- [ ] **Five by Five**
+- [ ] Coalition
+- [ ] Crime Story
+- [ ] Gideon’s Daughter
+- [x] Hearts and Bones
+- [ ] Heartbeat
+- [ ] Margaret (Thatcher)
+- [x] MI-5 (only seasons 4 and 5)
+- [ ] MO
+- [ ] NW
+- [ ] 35 Days
+- [x] White Heat
+- [ ] Reg
+- [ ] Single Father
+- [ ] That Day We Sang
+- [x] The Baron
+- [x] The Moorside
+- [ ] The Jury
+- [ ] The Street
+- [x] The Sandbaggers
+- [x] The Sweeney
+- [ ] Tipping the Velvet
+- [x] The Mallorca Files
+- [ ] Mapp and Lucia (original series 85-86)
+- [x] Mapp and Lucia (2014)
+- [x] The Icehouse
+- [x] Stonemouth
+- [x] Quirke
+- [ ] In Plain Sight
+- [x] Gil Mayo Mysteries
+- [ ] Dark Heart
+- [ ] Blue Murder
+- [x] Boon
+- [x] The Ruth Rendell mysteries
+- [x] without motive
+- [ ] Not Safe For Work
+- [x] Mum
+- [ ] Cruise of the Gods
+- [x] Bliss
