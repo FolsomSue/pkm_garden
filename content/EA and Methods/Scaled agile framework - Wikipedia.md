@@ -1,0 +1,110 @@
+---
+aliases: [Scaled Agile Framework, SAFE, SAFe]
+---
+#EA #Methods 
+
+## Definition / Scope
+
+The **Scaled Agile Framework** (**SAFe**) is a set of organization and workflow patterns intended to guide enterprises in [scaling](https://en.wikipedia.org/wiki/Scaling_of_innovations "Scaling of innovations") [lean](https://en.wikipedia.org/wiki/Lean_software_development "Lean software development") and [agile](https://en.wikipedia.org/wiki/Agile_software_development "Agile software development") practices.<sup id="cite_ref-1"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-1">[1]</a></sup><sup id="cite_ref-2"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-2">[2]</a></sup> Along with [disciplined agile delivery](https://en.wikipedia.org/wiki/Disciplined_agile_delivery "Disciplined agile delivery") (DAD), SAFe is one of a growing number of frameworks that seek to address the problems encountered when scaling beyond a single team.<sup id="cite_ref-3"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-3">[3]</a></sup><sup id="cite_ref-4"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-4">[4]</a></sup>
+
+SAFe promotes alignment, collaboration, and delivery across large numbers of agile teams. It was developed by and for practitioners, by leveraging three primary bodies of knowledge: [agile software development](https://en.wikipedia.org/wiki/Agile_software_development "Agile software development"), [lean product development](https://en.wikipedia.org/wiki/Lean_product_development "Lean product development"), and [systems thinking](https://en.wikipedia.org/wiki/Systems_thinking "Systems thinking").<sup id="cite_ref-5"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-5">[5]</a></sup>
+
+The primary reference for the scaled agile framework was originally the development of a _big picture_ view of how work flowed from [product management](https://en.wikipedia.org/wiki/Product_management "Product management") (or other [stakeholders](https://en.wikipedia.org/wiki/Project_stakeholder "Project stakeholder")), through [governance](https://en.wikipedia.org/wiki/Project_governance "Project governance"), [program](https://en.wikipedia.org/wiki/Program_management "Program management"), and [development teams](https://en.wikipedia.org/wiki/Software_developer "Software developer"), out to [customers](https://en.wikipedia.org/wiki/Customer "Customer").<sup id="cite_ref-6"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-6">[6]</a></sup><sup id="cite_ref-7"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-7">[7]</a></sup> With the collaboration of others in the agile community, this was progressively refined and then first formally described in a 2007 book.<sup id="cite_ref-8"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-8">[8]</a></sup> The framework continues to be developed and shared publicly; with an academy and an accreditation scheme supporting those who seek to implement, support, or train others in the adoption of SAFe.
+
+Starting at its first release in 2011, six major versions have been released<sup id="cite_ref-History_of_SAFe_9-0"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-History_of_SAFe-9">[9]</a></sup> while the latest edition, version 6.0, was released in March 2023.<sup id="cite_ref-10"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-10">[10]</a></sup>
+
+While SAFe continues to be recognised as the most common approach to scaling agile practices (at 30 percent and growing),<sup id="cite_ref-11"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-11">[11]</a></sup><sup id="cite_ref-12"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-12">[12]</a></sup><sup>[<i><a href="https://en.wikipedia.org/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources"><span title="This citation requires a reference to the specific page or range of pages in which the material appears. (April 2019)">page&nbsp;needed</span></a></i>]</sup>,<sup id="cite_ref-13"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-13">[13]</a></sup> it also has received criticism for being too [hierarchical](https://en.wikipedia.org/wiki/Hierarchy "Hierarchy") and inflexible.<sup id="cite_ref-14"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-14">[14]</a></sup>
+
+## Challenges of scaling agile principles and practices\[[edit](https://en.wikipedia.org/w/index.php?title=Scaled_agile_framework&action=edit&section=1 "Edit section: Challenges of scaling agile principles and practices")\]
+
+### Coping with longer planning horizons\[[edit](https://en.wikipedia.org/w/index.php?title=Scaled_agile_framework&action=edit&section=2 "Edit section: Coping with longer planning horizons")\]
+
+Development teams typically refine their backlog up to two to three iterations ahead, but in larger organizations the product marketing team needs to plan further ahead for their commitments to market and discussions with customers.<sup id="cite_ref-15"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-15">[15]</a></sup> They will often work with a very high level, 12 to 18-month roadmap, then plan collaboratively with the teams for three months of work.<sup>[<i><a href="https://en.wikipedia.org/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2022)">citation needed</span></a></i>]</sup> The development teams will still get into detailed refinement 2-3 iterations ahead, only getting into detailed task plans for the next iteration.<sup>[<i><a href="https://en.wikipedia.org/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2022)">citation needed</span></a></i>]</sup>
+
+### Keeping agile at abstract levels of responsibility\[[edit](https://en.wikipedia.org/w/index.php?title=Scaled_agile_framework&action=edit&section=3 "Edit section: Keeping agile at abstract levels of responsibility")\]
+
+While development teams have a number of frameworks that define how they should be agile, there is very little that describes this for management. SAFe delivers many of the same principles, such as cross-functional teams, to the groups that handle the more abstract levels of responsibility and planning (product and portfolio).<sup>[<i><a href="https://en.wikipedia.org/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2022)">citation needed</span></a></i>]</sup>
+
+
+In [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development) "Scrum (software development)"), the product owner is expected to assume responsibility for the full [product life-cycle](https://en.wikipedia.org/wiki/Product_lifecycle "Product lifecycle"), including the [return on investment](https://en.wikipedia.org/wiki/Return_on_investment "Return on investment") of development decisions, as well as performance in market. On large-scale developments, the organization wants a view across multiple team backlogs, such as provided by a [product manager](https://en.wikipedia.org/wiki/Product_manager "Product manager").<sup id="cite_ref-:2_16-0"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-:2-16">[16]</a></sup> Although SAFe assumes the product owner role sits with product management, it has nonetheless been criticized for separating product owners into the development organization.<sup id="cite_ref-:3_17-0"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-:3-17">[17]</a></sup>
+
+### Synchronizing deliverables\[[edit](https://en.wikipedia.org/w/index.php?title=Scaled_agile_framework&action=edit&section=5 "Edit section: Synchronizing deliverables")\]
+
+Agile frameworks are designed to enable the development team to be autonomous and free to design how they work. SAFe acknowledges that, at the scale of many tens or hundreds of development teams, it becomes increasingly chaotic for teams to fully self-organize.<sup id="cite_ref-:1_18-0"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-:1-18">[18]</a></sup> It therefore puts some constraints on this, so that where teams are working on the same product, their deliverables can be better synchronized for releasing together, although this has been one area in which SAFe has been criticized.<sup id="cite_ref-:2_16-1"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-:2-16">[16]</a></sup><sup id="cite_ref-:3_17-1"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-:3-17">[17]</a></sup>
+
+### Allowing time for innovation and planning\[[edit](https://en.wikipedia.org/w/index.php?title=Scaled_agile_framework&action=edit&section=6 "Edit section: Allowing time for innovation and planning")\]
+
+The SAFe planning cycle recommends including an additional iteration after a release, allowing teams to improve their practices and are ready for the next planning increment. Earlier editions of SAFe also designed this to be a _hardening_ iteration, namely to stabilize or harden the product before releasing it. This was predicated on the complications of working with large integration environments where dependencies prevented several matters from being tested until the very end. SAFe was criticized for this because it represented an anti-agile or waterfall element, but was in line with lean 90-day increments which make 13 weeks, and if doing two-week sprints you need six of them plus a one-week planning or hardening cycle.<sup id="cite_ref-19"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-19">[19]</a></sup> This is not included in recent editions of SAFe.
+
+## Implementation\[[edit](https://en.wikipedia.org/w/index.php?title=Scaled_agile_framework&action=edit&section=7 "Edit section: Implementation")\]
+
+### Underlying principles of SAFe\[[edit](https://en.wikipedia.org/w/index.php?title=Scaled_agile_framework&action=edit&section=8 "Edit section: Underlying principles of SAFe")\]
+
+According to its authors, SAFe is based upon ten underlying concepts, which are derived from existing lean and agile principles, as well as observation:<sup id="cite_ref-:0_20-0"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-:0-20">[20]</a></sup>
+
+1.  Take an economic view
+2.  Apply systems thinking
+3.  Assume variability; preserve options
+4.  Build incrementally with fast integrated learning cycles
+5.  Base milestones on objective evaluation of working systems
+6.  Visualize and limit work-in-progress, reduce batch sizes, and manage queue lengths
+7.  Apply cadence (timing), synchronize with cross-domain planning
+8.  Unlock the intrinsic motivation of knowledge workers
+9.  [Decentralize](https://en.wikipedia.org/wiki/Decentralization "Decentralization") decision-making
+10.  Organize around value
+
+SAFe has been criticized for aggregating too many disparate practices.<sup id="cite_ref-21"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-21">[21]</a></sup>
+
+### The SAFe framework\[[edit](https://en.wikipedia.org/w/index.php?title=Scaled_agile_framework&action=edit&section=9 "Edit section: The SAFe framework")\]
+
+In SAFe version 5.1, there are four configurations: essential, portfolio, large solution and full:<sup id="cite_ref-22"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-22">[22]</a></sup>
+
+-   Essential SAFe is the most basic configuration. It describes the most critical elements needed and is intended to provide the majority of the framework's benefits. It includes the team and program level (which it calls agile release trains or ARTs).
+-   Large Solution SAFe allows for coordination and synchronization across multiple programs, but without the portfolio considerations. In earlier versions of SAFe, this level was referred to as [value stream](https://en.wikipedia.org/wiki/Value_stream "Value stream").
+-   Portfolio SAFe includes concerns for strategic direction, investment funding, and lean governance.
+-   Full SAFe combines the other three levels.
+
+### Certifications
+
+Scaled Agile provides [certifications](https://en.wikipedia.org/wiki/Professional_certification_(computer_technology) "Professional certification (computer technology)") that cover different areas and knowledge levels.<sup id="cite_ref-23"><a href="https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_note-23">[23]</a></sup>
+
+## See also
+
+-   [Scrum of scrums](https://en.wikipedia.org/wiki/Scrum_(software_development)#Scrum_of_scrums "Scrum (software development)")
+
+## References
+
+1.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-1 "Jump up")** Hayes, Will; Lapham, Mary Ann; Miller, Suzanne; Wrubel, Eileen; Capell, Peter (2016). _Scaling Agile Methods for Department of Defense Programs_. Software Engineering Institute. CMU/SEI-2016-TN-005.
+2.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-2 "Jump up")** Athrow, Desiree (29 January 2015). ["Why Continuous Delivery is key to speeding up software development"](http://www.techradar.com/news/software/why-continuous-delivery-is-key-to-speeding-up-software-development-1282498). _TechRadar_. Retrieved 2017-11-27.
+3.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-3 "Jump up")** Linders, Ben (January 22, 2015). ["Scaling Agile with the Disciplined Agile Delivery Framework"](https://www.infoq.com/news/2015/01/disciplined-agile-delivery). _InfoQ_. Retrieved 2017-11-27.
+4.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-4 "Jump up")** van Haaster, K (2014). _Agile in-the-large: Getting from Paradox to Paradigm_. Unpublished paper from Charles Sturt University.
+5.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-5 "Jump up")** King, Michael (2017). ["Serving Federal Customers with SAFe Concepts"](http://cmmiinstitute.com/sites/default/files/resource_asset/Serving%20Federal%20Customers%20Using%20Agile%2C%20SAFe%2C%20And%20CMMI%20Principles.pdf) (PDF). _Capability Counts Conference Proceedings_.<sup><span>[<i><a href="https://en.wikipedia.org/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&nbsp;Dead link tagged September 2022">dead link</span></a></i>]</span></sup>
+6.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-6 "Jump up")** Bridgwater, Adrian (August 7, 2013). ["Real Agile Means Everybody Is Agile"](http://www.drdobbs.com/tools/real-agile-means-everybody-is-agile/240159622). _Dr. Dobb's_. Retrieved 2017-11-27.
+7.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-7 "Jump up")** Linders, Ben (August 28, 2014). ["Death by Planning in Agile Adoption"](https://www.infoq.com/news/2014/08/death-by-planning-agile). _InfoQ_. Retrieved 2017-11-27.
+8.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-8 "Jump up")** Leffingwell, Dean (2007). _Scaling Software Agility: Best Practices for Large Enterprises_. Addison-Wesley. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)") [978-0321458193](https://en.wikipedia.org/wiki/Special:BookSources/978-0321458193 "Special:BookSources/978-0321458193").
+9.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-History_of_SAFe_9-0 "Jump up")** ["About Scaled Agile Framework - A Brief History of SAFe"](https://www.scaledagileframework.com/about/). Scaled Agile Inc. Retrieved 12 August 2020.
+10.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-10 "Jump up")** ["Say Hello to SAFE 6.0"](https://scaledagileframework.com/blog/say-hello-to-safe-6-0/). Scaled Agile Inc. Retrieved 2023-03-16.
+11.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-11 "Jump up")** ["13th Annual State of Agile Report"](https://www.stateofagile.com/#ufh-i-521251909-13th-annual-state-of-agile-report/473508). _State of Agile Survey_. CollabNet VersionOne. 2019. Retrieved 2019-08-27.
+12.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-12 "Jump up")** Link, P; Lewrick, M (29 September 2014). ["Agile Methods in a New Area of Innovation Management"](http://www.brainguide.de/upload/publication/b0/2c3xg/c51b33fd2c6a9d032a7387f3273b9c62_1402133130.pdf) (PDF). _Science to Business Marketing Conference_.
+13.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-13 "Jump up")** Baptista, Roberto (28 January 2015). ["Profissionais brasileiros e o interesse por treinamentos de especialização"](http://computerworld.com.br/carreira/2015/01/28/profissionais-brasileiros-e-o-interesse-por-treinamentos-de-especializacao/). Computerworld Brazil. Retrieved 28 January 2015.
+14.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-14 "Jump up")** [Schwaber, Ken](https://en.wikipedia.org/wiki/Ken_Schwaber "Ken Schwaber") (2013-08-06). ["unSAFe at any speed"](https://kenschwaber.wordpress.com/2013/08/06/unsafe-at-any-speed/). _Telling It Like It Is_. Retrieved 2017-11-11.
+15.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-15 "Jump up")** Eklund, U; Olsson, H; Strøm, N (2014). _Industrial challenges of scaling agile in mass-produced embedded systems_. _Agile Methods. Large-Scale Development, Refactoring, Testing, and Estimation_. Springer International Publishing. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)") [9783319143583](https://en.wikipedia.org/wiki/Special:BookSources/9783319143583 "Special:BookSources/9783319143583").
+16.  ^ [Jump up to: <sup><i><b>a</b></i></sup>](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-:2_16-0) [<sup><i><b>b</b></i></sup>](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-:2_16-1) Vaidya, A (2014). _Does DAD Know Best, Is it Better to do LeSS or Just be SAFe? Adapting Scaling Agile Practices into the Enterprise_. Excerpt from PNSQC 2014 Proceedings. pp. 8–9.
+17.  ^ [Jump up to: <sup><i><b>a</b></i></sup>](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-:3_17-0) [<sup><i><b>b</b></i></sup>](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-:3_17-1) Maximini, Dominik (11 September 2013). ["A critical view on SAFe - Scrumorakel - Blog"](http://scrumorakel.de/blog/index.php?/archives/45-A-critical-view-on-SAFe.html). _Scrum Oracle_. Retrieved 2017-11-27.
+18.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-:1_18-0 "Jump up")** Stafford, Jan (December 9, 2013). ["Scaling Agile development calls for defined practices, consultant says"](http://searchsoftwarequality.techtarget.com/answer/Scaling-Agile-development-calls-for-defined-practices-consultant-says). _SearchSoftwareQuality_. Retrieved 2017-11-27.<sup><span>[<i><a href="https://en.wikipedia.org/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&nbsp;Dead link tagged September 2022">dead link</span></a></i>]</span></sup>
+19.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-19 "Jump up")** Killick, Neil (21 March 2012). ["The Horror Of The Scaled Agile Framework"](https://neilkillick.wordpress.com/2012/03/21/the-horror-of-the-scaled-agile-framework/). _Agile, Scrum, Kanban, Lean, and everything that's in between_. Retrieved 2017-11-27.
+20.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-:0_20-0 "Jump up")** ["SAFe Lean-Agile Principles"](http://scaledagileframework.com/safe-lean-agile-principles/). Retrieved 19 February 2016.
+21.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-21 "Jump up")** Elssamadisy, Amr. ["Has SAFe Cracked the Large Agile Adoption Nut?"](https://www.infoq.com/news/2013/08/safe). _InfoQ_. Retrieved 2017-11-11.
+22.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-22 "Jump up")** Rose, Doug (2018). [_Enterprise Agility For Dummies_](https://books.google.com/books?id=qppNDwAAQBAJ). John Wiley & Sons. pp. 87–89. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)") [9781119446095](https://en.wikipedia.org/wiki/Special:BookSources/9781119446095 "Special:BookSources/9781119446095").
+23.  **[^](https://en.wikipedia.org/wiki/Scaled_agile_framework#cite_ref-23 "Jump up")** ["Certification"](http://www.scaledagile.com/which-course/). _Scaled Agile_. Retrieved 19 February 2016.
+
+## Further reading
+
+-   Dingsøyr, Torgeir; Falessi, David; Power, Ken (February 2019), "Agile Development at Scale: The Next Frontier", _IEEE Software_, **36** (2): 30–38, [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1109/MS.2018.2884884](https://doi.org/10.1109%2FMS.2018.2884884), [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier) "S2CID (identifier)") [57373760](https://api.semanticscholar.org/CorpusID:57373760)
+-   Heusser, Matthew (17 June 2015), [_Introducing the scaled agile framework_](http://www.cio.com/article/2936942/enterprise-software/introducing-the-scaled-agile-framework.html), [CIO](https://en.wikipedia.org/wiki/CIO_magazine "CIO magazine"), pp. 1–2 — contains a review of the pros and cons of the methodology and concludes it is a half-way-house to a fully agile system.
+-   Leffingwell, Dean (2011), _Lean Requirements Practices for Teams, Programs, and the Enterprise_, Addison-Wesley Professional, [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)") [978-0321635846](https://en.wikipedia.org/wiki/Special:BookSources/978-0321635846 "Special:BookSources/978-0321635846")
+-   Linders, Ben (15 January 2015), [_Lean and Agile Leadership with the Scaled Agile Framework (SAFe)_](http://www.infoq.com/news/2015/01/lean-agile-leadership-safe), InfoQ
+
+## External links
+
+-   [Official website](https://www.scaledagileframework.com/)
