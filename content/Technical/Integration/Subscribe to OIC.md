@@ -1,0 +1,7 @@
+#Technology #definition #Integration #Oracle #Patterns 
+# Subscribe to OIC
+Create an integration in which you add an invoke adapter to subscribe to messages from Oracle Integration through an Oracle Integration Messaging trigger. You are prompted to select the publisher to which to subscribe. You must have already created a publisher to which to subscribe. The publisher does not need to be active, but must already be completely configured.
+
+Any business identifiers defined on fields in the published integration are copied to the subscriber. Any changes made to the published integration’s business identifiers after copying are not reflected in the subscriber. The publisher and subscribers participating in this integration style can be activated and deactivated independently of each other.
+
+See [Create an Integration to Subscribe to Oracle Integration](https://docs.oracle.com/en/cloud/paas/integration-cloud/integrations-user/create-integrations-publish-and-subscribe-oic.html#GUID-9A2BE814-3363-4522-94AF-806C56D5EBAF "You can create integrations that enable you to subscribe to messages from Oracle Integration. Message subscription is accomplished through use of Oracle Integration Messaging.").
