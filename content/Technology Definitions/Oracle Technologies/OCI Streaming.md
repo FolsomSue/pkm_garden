@@ -1,0 +1,2 @@
+ #Oracle #Integration 
+Oracle Cloud Infrastructure (OCI) Streaming service is a real-time, serverless, Apache Kafka-compatible event streaming platform for developers and data scientists. Streaming is tightly integrated with Oracle Cloud Infrastructure (OCI), Database, GoldenGate, and Integration Cloud. The service also provides out-of-the-box integrations for hundreds of third-party products across categories such as DevOps, databases, big data, and SaaS applications.
