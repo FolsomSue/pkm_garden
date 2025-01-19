@@ -1,0 +1,66 @@
+# YYC Companies Applied To 
+#Career #Prospects
+- [ ] CDW — Field Solutions Architect -- applied 18 March
+- [ ] LivingWorks — Technology Director -- applied 12 March
+- [ ] TransAlta via TEK — Enterprise Architect -- **third interview** 11 March
+- [ ] GoA via vTech / neuvoo — Enterprise Architect — applied 11 March
+- [ ] MNP — Enterprise Architect -- pre-screen phone call 9 March
+- [ ] TransAlta via TEK — Enterprise Architect -- **second interview** 6 March
+- [ ] Enbridge — Enterprise Architect -- applied 4 March
+- [ ] TransAlta via TEK — Enterprise Architect -- **interviewed** 28 Feb
+- [ ] Pembina IS Infrastructure Manager -- applied 25 Feb
+- [ ] Technology Director — Critical Mass via PostJobFree — applied 24 Feb
+- [ ] ATCO — Strategy & Change Management, Enterprise Architecture — applied 24 Feb (via neuvoo)
+- [ ] TES —Solution Architect — Regina SK -- applied 17 Feb
+- [ ] TransAlta via TEK — Enterprise Architect -- WIP
+- [ ] OPS via Ares (Toronto) — WIP
+- [ ] Suncor — Business Process Specialist -- applied 10 Feb
+- [ ] Benevity — Technical Product Analyst — applied 5 Feb
+- [ ] **AltaLink via AgileSystems — Enterprise Architect — applied 5 Feb**… _probably didn’t get it_
+- [ ] ATCO — Strategy & Change Management, Enterprise Architecture — applied 5 Feb
+- [ ] Telus — Senior Technology Specialist — applied 5 Feb
+- [ ] General Dynamics — Senior Systems Engineer — applied 31 Jan
+- [ ] Sapient — Senior Manager, Solution Architect (ETRM) — applied 29 Jan
+- [ ] Burnco — IS Manager — applied 28 Jan
+- [ ] Certarus via Indeed — Software/Lead Architect (contract) — applied 25 Jan
+- [ ] Simply Education vs beBee — Enterprise Architect — applied 25 Jan
+- [ ] Adirondack — Solutions Architect — applied 24 Jan
+- [ ] PostJobFree for  [mnp.ca](http://mnp.ca)  — Enterprise Architect — applied 23 Jan
+- [ ] PCM Canada — Presales Solutions Architect - Modern Workplace — applied 22 Jan
+- [ ] SI Systems for ??? — Senior Solution Architect (20-40 hours) — applied 22 Jan
+- [ ] ATB — Director of Software Engineering — applied 22 Jan
+- [ ] **SI Systems (unnamed Calgary company) — Senior Enterprise Architect for Capability Models — 20 Jan … this may be the City of Calgary position applied via Procom**
+- [ ] BeBee (unnamed Calgary company) — Enterprise Architect — applied via LinkedIn 14 Jan
+- [ ] **City of Calgary — Senior Enterprise Architect — applied via Procom (Tessa) 14 Jan**
+- [ ] YYC — Senior Enterprise Systems Analyst — applied 13 Jan
+- [ ] Cisco — Systems Architect — applied 13 Jan
+- [ ] Canadian Cost Guard (via neuvoo) Tech Advisor Enterprise Architecture — applied in November
+- [ ] CGI — Client Architect, IT Infrastructure — applied… no go
+- [ ] Vantix Systems Inc. — Senior Enterprise Architect — NO (Edmonton)
+- [ ] ReadyRecruits — Enterprise Architect (via beBee) — applied
+- [ ] InSync Systems — Senior Systems Architect — applied
+- [ ] Nutrien — Director Global Technology and Architecture Lead — NO, needs a lot of SAP
+- [ ] Nutrien — Senior Manager, IT — applied
+- [ ] Robert Half Technology — Director of Technology — NO, looks more like a senior DevOps role
+- [ ] Amazon — applied for something…
+- [ ] ATB Responsive Banking Solutions Architect — applied
+- [ ] AppDirect — Senior Business Solution Consultant — applied
+- [x] Enerplus — Manager Data and Digital Advancement — applied
+- [ ] Employment and Social Development Canada — Technical Advisor — applied
+- [ ] Tundra Technical Solutions — IT Development Manager — Senior Business Architect (contract) — applied
+- [ ] Western Zagros Resources — Director IT — applied
+- [ ] Convergent — probably not since needs SAP
+- [ ] Dell — applied
+- [ ] Telus — Senior Technology Architect — applied
+- [ ] TC Energy (TransCanada) — Cybersecurity Architect — applied
+- [ ] Suncor — applied
+- [ ] Suncor — Director of Enterprise Applications Operations — applied
+- [ ] SAIT — applied
+- [ ] MNP — applied\Ricoh — applied
+- [ ] AltaGas — doesn’t pay enough but applied anyway
+- [ ] LVS — Digital Architect — applied
+- [ ] **University of Calgary — Solutions / Enterprise Architect — applied**
+- [ ] Accenture — applied
+- [ ] Compugen - Senior Infrastructure Consultant — applied
+- [ ] Devfacto — Principal Technology Strategist — applied
+- [ ] FrostByte Consulting — Solutions Consultant — applied
