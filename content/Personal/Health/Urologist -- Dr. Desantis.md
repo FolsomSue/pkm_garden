@@ -1,0 +1,7 @@
+- Day surgery
+- General anaesthesia
+- Stent in place... needs to be removed
+- Direct Admission - one night in hospital
+- Dr. Desantis; 403-943-8966
+- Rockyview
+- Uber to / from
